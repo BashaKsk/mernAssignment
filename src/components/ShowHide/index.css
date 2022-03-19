@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.app-container {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  text-align: center;
+}
+.image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.text-container {
+  width: 300px;
+}
+
+.heading {
+  font: 20px 'Roboto';
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: black;
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  border-width: 0;
+  color: #ffffff;
+}
